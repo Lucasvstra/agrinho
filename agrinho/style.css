@@ -1,0 +1,18 @@
+body{
+    background-color:#58c9a3;
+    text-align: center;
+}
+    .titulo{
+        color: #147014;;
+        font-size: 38px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      
+    }
+h1{
+    color: #147014;
+}
+p{
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
